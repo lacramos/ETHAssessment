@@ -10,7 +10,7 @@ The contract starts with the name "MyToken" and launches a token on the Ethereum
 
 **Minting Tokens**
 
-The ```mint``` function allows the creation of new tokens to be assigned to a specific address. When invoked, it requires two parameters: ```_address``` (the recipient's address) and ```_value``` (the number of tokens to mint). The function increases the total supply by ```_value``` and adds ```_value``` to the ```_address``` balance in the ```balances``` mapping.
+The ```mint``` function allows the creation of new tokens to be assigned to a specific address. It requires two parameters when called: ```_address``` (the recipient's address) and ```_value``` (the number of tokens to mint). The function increases the total supply by ```_value``` and adds ```_value``` to the ```_address``` balance in the ```balances``` mapping.
 
 **Burning Tokens**
 
