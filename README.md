@@ -21,4 +21,5 @@ The ```burn``` function enables the removal of tokens from circulation, thereby 
 Contributors names and contact info
 
 Louella Amor Ramos 
+
 Email: louellaaramos2714@gmail.com
